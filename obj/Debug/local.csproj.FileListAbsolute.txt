@@ -1,0 +1,16 @@
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\local.exe.config
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\local.exe
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\local.pdb
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.csprojAssemblyReference.cache
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.Properties.Resources.resources
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.csproj.GenerateResource.cache
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.csproj.CoreCompileInputs.cache
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.exe
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.pdb
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.FormLocal.resources
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\MySql.Data.dll
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\Google.Protobuf.dll
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\Renci.SshNet.dll
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\BouncyCastle.Crypto.dll
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\bin\Debug\MySql.Data.xml
+D:\M\Sagah\Disciplinas\Programacao back end\UA14_Construcao_de_uma_aplicaco_local_em_Csharp_com_SGBD\arquivos\local_app\local\obj\Debug\local.csproj.CopyComplete
